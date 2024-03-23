@@ -18,4 +18,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=SarithRanathunge&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🌐 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/sarith-ranathunge-890477242) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarith-ranathunge-890477242) 
