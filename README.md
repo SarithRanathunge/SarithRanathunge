@@ -10,9 +10,7 @@
 <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarithRanathunge&theme=dark&hide_border=false&langs_count=8&layout=compact"/> 
 
 ## 🎯 Career Goals 
-💻 AI Engineering <br>
-☁️ Cloud Computing <br>
-🤖 Robatics
+💻 Front-End Engineering <br>
 
 ## 🏆 GitHub Trophies.
 ![](https://github-profile-trophy.vercel.app/?username=SarithRanathunge&theme=dark&no-frame=false&no-bg=false&margin-w=4)
