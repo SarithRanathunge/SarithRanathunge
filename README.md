@@ -6,7 +6,7 @@
 
 ## 📈 GitHub Stats 
 <img alt ="gihub stats" src ="https://github-readme-stats.vercel.app/api?username=SarithRanathunge&theme=dark&hide_border=false&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
-<img width="467" src="https://github-readme-streak-stats.herokuapp.com/?user=SarithRanathunge&theme=dark&hide_border=false">
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SarithRanathunge&hide_border=false)
 <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarithRanathunge&theme=dark&hide_border=false&langs_count=8&layout=compact"/> 
 
 ## 🎯 Career Goals 
